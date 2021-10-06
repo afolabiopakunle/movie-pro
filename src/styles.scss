@@ -1,1 +1,21 @@
-/* You can add global styles to this file, and also import other style files */
+html, body, main {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #2F3542;
+  font-family: sans-serif;
+}
+
+main {
+  max-width: 920px;
+  margin: 0 auto;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  color: #FFA502;
+}

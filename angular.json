@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "movie-pro"
+  "defaultProject": "movie-pro",
+  "cli": {
+    "analytics": false
+  }
 }
